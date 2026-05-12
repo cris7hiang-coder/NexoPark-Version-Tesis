@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="map_view_id" type="id"/>
+    <item name="profile_image_id" type="id" />
+    <item name="custom_button_id" type="id" />
+
+</resources>
